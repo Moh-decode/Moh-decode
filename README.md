@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Moh-decode/Moh-decode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - I’m currently working on building simple agents to improve productivity at my company
 - I’m currently learning building bots and agents that will help non-technical people at my company to ask data related questions and get answers without learning to write SQL 
 - I’m looking to collaborate on new ideas with early state startups of SMBs 
